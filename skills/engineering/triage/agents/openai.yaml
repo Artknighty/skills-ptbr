@@ -1,0 +1,5 @@
+interface:
+  display_name: "Triage"
+  short_description: "Mova issues pelos papéis de triagem"
+policy:
+  allow_implicit_invocation: false

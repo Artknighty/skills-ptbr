@@ -1,0 +1,5 @@
+interface:
+  display_name: "Writing Shape"
+  short_description: "Dê à matéria-prima a forma de um artigo"
+policy:
+  allow_implicit_invocation: false

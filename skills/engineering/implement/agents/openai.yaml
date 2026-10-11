@@ -1,0 +1,5 @@
+interface:
+  display_name: "Implement"
+  short_description: "Construa o trabalho a partir de uma spec ou de tickets"
+policy:
+  allow_implicit_invocation: false

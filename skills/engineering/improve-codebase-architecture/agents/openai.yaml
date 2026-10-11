@@ -1,0 +1,5 @@
+interface:
+  display_name: "Improve Codebase Architecture"
+  short_description: "Encontre e sabatine melhorias de arquitetura"
+policy:
+  allow_implicit_invocation: false

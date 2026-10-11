@@ -1,0 +1,5 @@
+interface:
+  display_name: "Loop Me"
+  short_description: "Escreva as specs dos workflows que você quer construir"
+policy:
+  allow_implicit_invocation: false

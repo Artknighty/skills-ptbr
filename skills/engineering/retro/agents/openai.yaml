@@ -1,0 +1,5 @@
+interface:
+  display_name: "Retro"
+  short_description: "Faça uma retrospectiva de uma sessão de código"
+policy:
+  allow_implicit_invocation: false

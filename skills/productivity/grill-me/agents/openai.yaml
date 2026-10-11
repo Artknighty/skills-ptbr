@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grill Me"
+  short_description: "Afie um plano por meio de uma sabatina"
+policy:
+  allow_implicit_invocation: false

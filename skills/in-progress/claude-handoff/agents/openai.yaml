@@ -1,0 +1,5 @@
+interface:
+  display_name: "Claude Handoff"
+  short_description: "Passe o trabalho para um agente em segundo plano"
+policy:
+  allow_implicit_invocation: false

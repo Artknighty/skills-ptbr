@@ -1,0 +1,24 @@
+{
+  "name": "skills-ptbr",
+  "owner": {
+    "name": "Matt Pocock",
+    "url": "https://www.aihero.dev"
+  },
+  "description": "Tradução para pt-BR das skills de Matt Pocock para engenharia de verdade, como plugin instalável do Claude Code.",
+  "plugins": [
+    {
+      "name": "mattpocock-skills-ptbr",
+      "source": "./",
+      "description": "Skills de agente de Matt Pocock em português do Brasil (sabatina, fluxos de spec/tickets, TDD, code review, modelagem de domínio e mais).",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "tdd",
+        "code-review",
+        "grilling",
+        "pt-br"
+      ]
+    }
+  ]
+}

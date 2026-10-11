@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grill with Docs"
+  short_description: "Sabatine um design e escreva a documentação dele"
+policy:
+  allow_implicit_invocation: false

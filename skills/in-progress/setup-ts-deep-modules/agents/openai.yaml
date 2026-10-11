@@ -1,0 +1,5 @@
+interface:
+  display_name: "Setup TS Deep Modules"
+  short_description: "Imponha módulos profundos em TypeScript"
+policy:
+  allow_implicit_invocation: false

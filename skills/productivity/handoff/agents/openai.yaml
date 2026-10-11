@@ -1,0 +1,5 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Compacte uma conversa em um handoff"
+policy:
+  allow_implicit_invocation: false

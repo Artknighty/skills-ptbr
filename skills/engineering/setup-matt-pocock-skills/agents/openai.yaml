@@ -1,0 +1,5 @@
+interface:
+  display_name: "Setup Matt Pocock Skills"
+  short_description: "Configure um repositório para as skills"
+policy:
+  allow_implicit_invocation: false

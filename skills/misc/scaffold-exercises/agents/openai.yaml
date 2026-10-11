@@ -1,0 +1,3 @@
+interface:
+  display_name: "Scaffold Exercises"
+  short_description: "Monte exercícios de curso que passam no lint"

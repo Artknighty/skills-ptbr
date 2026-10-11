@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Questionnaire"
+  short_description: "Antecipe perguntas em um documento para alguém responder"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Writing Beats"
+  short_description: "Monte a matéria-prima em beats"
+policy:
+  allow_implicit_invocation: false

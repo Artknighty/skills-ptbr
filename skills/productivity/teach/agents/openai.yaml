@@ -1,0 +1,5 @@
+interface:
+  display_name: "Teach"
+  short_description: "Aprenda um conceito em um workspace guiado"
+policy:
+  allow_implicit_invocation: false
